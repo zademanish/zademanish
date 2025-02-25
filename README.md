@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zademanish&label=Profile%20views&color=0e75b6&style=flat" alt="zademanish" /> </p>
 
-- 🔭 I’m currently working on [Job_Hunt](job-hunt-application.onrender.com)
+- 🔭 I’m currently working on [Ecommerce App](https://ecommerce-app-frontend-psi-five.vercel.app)
 
 - 🌱 I’m currently learning **Next Js, React Native**
 

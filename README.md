@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Job_Hunt](job-hunt-application.onrender.com)
 
-- 🌱 I’m currently learning **React Native, TypeScript**
+- 🌱 I’m currently learning **Next Js, React Native**
 
 - 👨‍💻 All of my projects are available at [https://manishporfolio.vercel.app/](https://manishporfolio.vercel.app/)
 
